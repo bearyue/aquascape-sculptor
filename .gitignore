@@ -1,0 +1,30 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Local dependency and build output directories
+node_modules/
+dist/
+build/
+out/
+coverage/
+
+# Python launcher/install-manager artifacts
+%SystemDrive%/
+Python/
+
+# Generated model/export files
+*.stl
+*.obj
+*.3mf
